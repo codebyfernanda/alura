@@ -8,6 +8,11 @@ sucesso, crie uma variável inteira para exibir a temperatura em Fahrenheit sem 
 que provavelmente você precisará fazer um casting de valores.
  */
 
+// ============================================================================
+// --------------------------Conversão de Temperatura--------------------------
+// ------------------------Escrito por: @codebyfernanda------------------------
+// ============================================================================
+
 import java.util.Scanner;
 
 public class Main {
