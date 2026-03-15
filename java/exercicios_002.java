@@ -1,5 +1,5 @@
 /*
-EXERCÍCIO: Aula 02
+EXERCÍCIOS: Aula 02
 Escreva um programa que converta uma temperatura em graus Celsius para Fahrenheit. 
 Utilize variáveis para representar os valores das temperaturas e imprima no console
 o valor convertido de Celsius para Fahrenheit. Dica: A fórmula para converter 
