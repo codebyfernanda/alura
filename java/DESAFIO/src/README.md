@@ -22,22 +22,6 @@ O objetivo principal foi criar um sistema que gerencia os dados de um cliente e 
 * **Scanner API:** Para leitura e interação com o usuário via console.
 * **Estruturas de Repetição e Condicionais:** `while`, `if/else`
 
-## 🚀 Como Executar
-
-1. Certifique-se de ter o **JDK** instalado em sua máquina.
-2. Clone o repositório:
-   ```bash
-   git clone https://github.com/codebyfernanda/nome-do-repositorio.git
-   ```
-3. Navegue até a pasta do projeto e compile o arquivo:
-   ```bash
-   javac desafio.java
-   ```
-4. Execute a aplicação:
-   ```bash
-   java desafio
-   ```
-
 ## 🧠 Aprendizados
 
 Durante o desenvolvimento deste desafio, pude reforçar:
@@ -46,6 +30,6 @@ Durante o desenvolvimento deste desafio, pude reforçar:
 * Lógica de acumulação de valores (`+=` e `-=`).
 
 ---
-⭐ *Projeto desenvolvido como parte dos estudos em Análise e Desenvolvimento de Sistemas.*
+⭐ *Projeto desenvolvido como um reforço dos estudos em Análise e Desenvolvimento de Sistemas.*
 
 ---
