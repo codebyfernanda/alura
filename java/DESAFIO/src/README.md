@@ -1,6 +1,6 @@
 # 🏦 Desafio: Simulador de Operações Bancárias
 
-Este projeto foi desenvolvido como um desafio prático para consolidar conceitos fundamentais da linguagem **Java**. A aplicação simula o gerenciamento de uma conta bancária via console, permitindo operações financeiras básicas em um loop contínuo.
+Este projeto foi desenvolvido como um desafio prático para consolidar conceitos fundamentais da linguagem **Java**. A aplicação simula o gerenciamento de uma conta bancária via console (CLI), que simula o funcionamento simplificado de operações financeiras básicas em um loop contínuo. O foco principal é a prática de Lógica de Programação, Controle de Fluxo e Interação com o Usuário.
 
 ## 📋 Sobre o Projeto
 
