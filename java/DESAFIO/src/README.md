@@ -20,7 +20,7 @@ O objetivo principal foi criar um sistema que gerencia os dados de um cliente e 
 
 * **Java 17**
 * **Scanner API:** Para leitura e interação com o usuário via console.
-* **Estruturas de Repetição e Condicionais:** `while`, `if/else` e `switch case` (na versão 2 do desafio, presente nesta pasta)
+* **Estruturas de Repetição e Condicionais:** `while`, `if/else` e `switch case` (na versão 2 do desafio, também presente nesta pasta)
 
 ## 🧠 Aprendizados
 
